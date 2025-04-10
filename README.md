@@ -1,1 +1,1 @@
-﻿# typescript concepts
+﻿# all typescript concepts learnt
